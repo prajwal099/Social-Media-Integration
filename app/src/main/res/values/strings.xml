@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">WOw8b75QnhFOHRnfgN5ETtsDr</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">NqDO5c6n3HqFKQmDS1lZvlgoQF80XEtzWqCw5PgW0t6fpdpwf6</string>
+</resources>
